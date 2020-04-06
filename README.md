@@ -17,5 +17,5 @@ The programs uses numpy, matplotlib and opencv libraries. Moreover, It uses json
 
 ## Authors
 Vasista Ayyagari
-Kumar Smabhav Mahipal
+Kumar Sambhav Mahipal
 Raghav Agarwal
