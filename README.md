@@ -16,6 +16,6 @@ The programs uses numpy, matplotlib and opencv libraries. Moreover, It uses json
     - ```python buoy_detection.py``` is used run the pipeline required for buoy detection that uses the GMM parameters obtained by training on the ROI pixel dataset
 
 ## Authors
-Vasista Ayyagari
-Kumar Sambhav Mahipal
+Vasista Ayyagari,
+Kumar Sambhav Mahipal,
 Raghav Agarwal
