@@ -124,5 +124,5 @@ np.save('means.npy', gmm.means)
 np.save('covar.npy', gmm.sigma)
 
 ##########################################################
-## Link to Results https://drive.google.com/file/d/1Z9uDHLfe75MrKG30JxXfgh1jMac8OpRA/view?usp=sharing
+## Link to Results https://drive.google.com/open?id=1jfllFwXjeDdrOl2VhvVs97f36Axhwo6o
 ##########################################################
