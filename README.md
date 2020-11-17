@@ -1,4 +1,4 @@
-# ENPM_673_Project_3
+# Gaussian Mixture Models
 # Implementation of Gaussian Mixture Models for Image Segmentation
 
 This repository has a report in pdf format with  descriptions of problem 1 and 2. All the solutions of the problem set have been implemented in In different files. There is also a .ipynb notebook for testing.
